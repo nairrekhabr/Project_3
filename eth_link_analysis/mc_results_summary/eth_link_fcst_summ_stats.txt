@@ -1,26 +1,26 @@
 Ethereum Forecast Statistics: 
  count           1.000000e+03
-mean            3.191893e+05
-std             2.584556e+06
-min             1.775417e-01
-25%             3.351807e+02
-50%             3.228065e+03
-75%             2.964940e+04
-max             5.942260e+07
-95% CI Lower    5.323179e+00
-95% CI Upper    1.897043e+06
+mean            6.537913e+05
+std             7.492195e+06
+min             1.576104e-01
+25%             4.402936e+02
+50%             3.845495e+03
+75%             3.722538e+04
+max             1.826256e+08
+95% CI Lower    8.106208e+00
+95% CI Upper    2.400491e+06
 Name: 2520, dtype: float64 
 
 Chainlink Forecast Statistics: 
  count           1.000000e+03
-mean            5.742646e+06
-std             9.057424e+07
-min             6.468225e-03
-25%             3.067771e+02
-50%             4.498200e+03
-75%             6.205986e+04
-max             2.117061e+09
-95% CI Lower    1.899324e+00
-95% CI Upper    9.180937e+06
+mean            1.835741e+06
+std             2.601654e+07
+min             7.109767e-02
+25%             2.891368e+02
+50%             4.489314e+03
+75%             7.650109e+04
+max             7.741888e+08
+95% CI Lower    9.558919e-01
+95% CI Upper    8.057776e+06
 Name: 2520, dtype: float64 
 
