@@ -1,0 +1,8 @@
+Ethereum Forecast Summary:
+There is a 95% chance that an initial investment of $10000 in ETH will be worth between $53231.79 and $18970429836.34 in 10 years.
+The median expected value of a current $10000 investment in ETH is $32280652.47 in 10 years. 
+
+Chainlink Forecast Summary:
+There is a 95% chance that an initial investment of $10000 in LINK will be worth between $18993.24 and $91809369969.61 in 10 years.
+The median expected value of a current $10000 investment in LINK is $44982002.02 in 10 years. 
+
