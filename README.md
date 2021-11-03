@@ -22,17 +22,17 @@ Comparative Analysis of Mutual funds and Cryptocurrencies
 
 - The project aims at building a comparative study of popular Target retirement fund 2040,    SP 500 & Cryptocurrencies.
 - The following popular mutual funds  are considered
-  Vanguard
-  Fidelity
-  TRowe's
-  Schwab
+  ### Vanguard
+  ### Fidelity
+  ### TRowe's
+  ### Schwab
 - The following popular cryptocurrencies are considered
-  Bitcoin
-  Litcoin
-  BTC (Bitcoins)
-  XRP
-  ETH (Ethereum)
-  Maker
+  ### Bitcoin
+  ### Litcoin
+  ### BTC (Bitcoins)
+  ### XRP
+  ### ETH (Ethereum)
+  ### Maker
   Dash
   
 - Metrics for comparison
