@@ -36,15 +36,15 @@ Comparative Analysis of Mutual funds and Cryptocurrencies
   Dash
   
 - Metrics for comparison
-  Annualized Annual Returns 3, 5 & 10 yrs
-  Sharpie Ratio
-  R2 Ratio
-  Alpha Ratio
-  Beta Ratio
-  Standard Deviation
+  ### Annualized Annual Returns 3, 5 & 10 yrs
+  ### Sharpie Ratio
+  ### R2 Ratio
+  ### Alpha Ratio
+  ### Beta Ratio
+  ### Standard Deviation
   
 - Returns Predictions
-  Linear Regression
+  ### Linear Regression
 
    
 ## Installation Instructions
