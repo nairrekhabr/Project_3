@@ -5,13 +5,13 @@ Comparative Analysis of Mutual funds and Cryptocurrencies
 
 ## Contributors
 
-@mcgrawj012
-@Nik-Golthi
-@mrnaglejr
-@jarewa2
-@Hillhwaga
-@Sravani Misra
-@nairrekhabr
+1. @mcgrawj012
+2. @Nik-Golthi
+3. @mrnaglejr
+4. @jarewa2
+5. @Hillhwaga
+6. @Sravani Misra
+7. @nairrekhabr
 
 
 ## Technology Stack
