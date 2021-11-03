@@ -27,13 +27,12 @@ Comparative Analysis of Mutual funds and Cryptocurrencies
   ### TRowe's
   ### Schwab
 - The following popular cryptocurrencies are considered
-  ### Bitcoin
-  ### Litcoin
   ### BTC (Bitcoins)
+  ### Litcoin
   ### XRP
   ### ETH (Ethereum)
   ### Maker
-  Dash
+  ### Dash
   
 - Metrics for comparison
   ### Annualized Annual Returns 3, 5 & 10 yrs
