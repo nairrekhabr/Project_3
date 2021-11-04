@@ -26,10 +26,10 @@ Below are the cryptocurrencies included in our comparative analysis:
 - Average Annualized Return
 - Standard Deviation
 - Sharpe Ratio
+- Sortino Ratio
 - R2 Ratio
 - Alpha Ratio
 - Beta Ratio
--
   
 ### **Prediction Methods**:
 - Linear Regression
