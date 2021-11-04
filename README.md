@@ -53,7 +53,13 @@ Comparative Analysis of Mutual funds and Cryptocurrencies
 
 
 ## Screenshots
+### Mutual fund SP500
 
+<img width="583" alt="Comparative Analysis SP500" src="https://user-images.githubusercontent.com/83980061/140423531-13818120-2274-42df-bf67-c6b143216883.png">
+
+### Target Retirement fund 2040
+
+<img width="572" alt="Comparative Analysis Target Retirement fund 2040" src="https://user-images.githubusercontent.com/83980061/140423546-98551e35-839f-4b8e-bb24-14bae8155a89.png">
 
 
 ## Contact
