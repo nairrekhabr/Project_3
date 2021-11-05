@@ -1,0 +1,24 @@
+Bitcoin Forecast Summary:
+The 5-year forecasted growth of BTC is 1490.32%. 
+The 10-year forecasted growth of BTC is 22210.48%. 
+
+Ethereum Forecast Summary:
+The 5-year forecasted growth of ETH is 6973.31%. 
+The 10-year forecasted growth of ETH is 486270.12%. 
+
+Chainlink Forecast Summary:
+The 5-year forecasted growth of LINK is 11427.59%. 
+The 10-year forecasted growth of LINK is 1305898.15%. 
+
+Maker Forecast Summary:
+The 5-year forecasted growth of MKR is 1838.08%. 
+The 10-year forecasted growth of MKR is 33785.37%. 
+
+Litecoin Forecast Summary:
+The 5-year forecasted growth of LTC is 1926.83%. 
+The 10-year forecasted growth of LTC is 37126.68%. 
+
+Ripple Forecast Summary:
+The 5-year forecasted growth of XRP is 57.1%. 
+The 10-year forecasted growth of XRP is 32.6%. 
+
