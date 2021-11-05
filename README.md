@@ -118,7 +118,7 @@ The key takeaway from the beta comparison is that all of the cryptocurrencies in
 
 
 #### **Summary of Historical Returns & Volatility Metrics**
-![Crypto Metrics Summary](https://github.com/nairrekhabr/Project_3/blob/main/combined_crypto_analysis/images/beta_plot.png)
+![Crypto Metrics Summary](https://github.com/nairrekhabr/Project_3/blob/main/combined_crypto_analysis/images/full_metrics_table.png)
 
 
 
