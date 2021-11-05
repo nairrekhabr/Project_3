@@ -1,0 +1,26 @@
+Bitcoin Forecast Statistics: 
+ count             1000.000000
+mean              1026.337465
+std               4698.266311
+min                  0.155452
+25%                 35.797442
+50%                137.331988
+75%                558.602802
+max             104908.815659
+95% CI Lower         3.245762
+95% CI Upper      7132.518767
+Name: 2520, dtype: float64 
+
+Ripple Forecast Statistics: 
+ count           1.000000e+03
+mean            8.963453e-03
+std             2.714433e-01
+min             6.409218e-20
+25%             1.158747e-11
+50%             1.018766e-09
+75%             6.838427e-08
+max             8.581059e+00
+95% CI Lower    3.019819e-15
+95% CI Upper    3.551044e-04
+Name: 2520, dtype: float64 
+

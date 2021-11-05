@@ -1,0 +1,8 @@
+Bitcoin Forecast Summary:
+There is a 95% chance that an initial investment of $10000 in BTC will be worth between $32457.62 and $71325187.67 in 10 years.
+The median expected value of a current $10000 investment in BTC is $1373319.88 in 10 years. 
+
+Ripple Forecast Summary:
+There is a 95% chance that an initial investment of $10000 in XRP will be worth between $0.0 and $3.55 in 10 years.
+The median expected value of a current $10000 investment in XRP is $0.0 in 10 years. 
+
