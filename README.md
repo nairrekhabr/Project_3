@@ -70,7 +70,6 @@ Python, Pandas, Hvplot, Numpy, Linear Regression (sklearn), YFinance API, CoinGe
 
 <img width="572" alt="Comparative Analysis Target Retirement fund 2040" src="https://user-images.githubusercontent.com/83980061/140423546-98551e35-839f-4b8e-bb24-14bae8155a89.png">
 
-
 ---
 ### **Crypto Analysis**:
 
@@ -120,8 +119,33 @@ The key takeaway from the beta comparison is that all of the cryptocurrencies in
 #### **Summary of Historical Returns & Volatility Metrics**
 ![Crypto Metrics Summary](https://github.com/nairrekhabr/Project_3/blob/main/combined_crypto_analysis/images/full_metrics_table.png)
 
+#### **Estimated Future Growth**:
 
+In addition to the historical analysis, we estimated future growth to assess the potential upside of investing in each cryptocurrency. We used two methods to estimate future growth:
 
+1) All-Time Average Annualized Return
+2) 10-year, 1,000 Path Monte Carlo Forecast
+
+Under the first approach, we simply calculated the all-time average annualized return for each asset, and used this rate to extrapolate 5 and 10-year growth rates:
+
+![Annualized Return Forecast](https://github.com/nairrekhabr/Project_3/blob/main/combined_crypto_analysis/images/annlzd_return_fcst.png)
+
+This results of this simple forecast based on the all-time average annualized return indicate that LINK and ETH offer the most upside for future growth.
+
+To generate another point of reference for our forecasting, we also ran 10-year, 1,000 path Monte Carlo forecasts for BTC, ETH, LINK, and XRP. To quantify the Monte Carlo results, we estimated the 95% confidence intervals and median expected values of an initial investment of $10,000.
+
+While the magnitude of the Monte Carlo forecasted growth differed from the previous approach, the conclusions were the same; LINK and ETH still offer the greatest upside for future growth:
+
+![BTC_XRP_MC ](https://github.com/nairrekhabr/Project_3/tree/main/btc_xrp_analysis/images/btc_xrp_ci_median_summ.png)
+![ETH_LINK_MC ](https://github.com/nairrekhabr/Project_3/tree/main/btc_xrp_analysis/images/btc_xrp_ci_median_summ.png)
+
+#### **Conclusions: Cryptocurrency Analysis**
+
+Based on our analysis, we decided to remove LTC & XRP from our list of recommended investments. LTC and XRP do not appear to offer returns sufficient enough to compensate investors for increased volatility. Additionally, XRP in particular does not seem to offer significant upside for future growth.
+
+We ultimately decided that a conservative investor's cryptocurrency portfolio should be mostly comprised of BTC and ETH. Our analysis showed that BTC & ETH are the least volatile assets in our comparison, and also provide strong risk-adjusted returns. Moreover, as the two leading and most established cryptocurrencies, we believe BTC & ETH are likely to have significant staying power going forward.
+
+For investors with a greater appetite for risk, we recommend expanding their crypto portfolios to incorporate Chainlink and Maker, in addition to Ethereum and Bitcoin. Chainlink in particular has displayed a track record of providing significant risk-adjusted returns, while also providing investors with significant upside for future growth.
 
 ---
 ## Contributors
