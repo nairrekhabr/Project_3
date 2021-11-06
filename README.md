@@ -136,8 +136,8 @@ To generate another point of reference for our forecasting, we also ran 10-year,
 
 While the magnitude of the Monte Carlo forecasted growth differed from the previous approach, the conclusions were the same; LINK and ETH still offer the greatest upside for future growth:
 
-![BTC_XRP_MC ](https://github.com/nairrekhabr/Project_3/tree/main/btc_xrp_analysis/images/btc_xrp_ci_median_summ.png)
-![ETH_LINK_MC ](https://github.com/nairrekhabr/Project_3/tree/main/btc_xrp_analysis/images/btc_xrp_ci_median_summ.png)
+![BTC_XRP_MC ](https://github.com/nairrekhabr/Project_3/blob/main/btc_xrp_analysis/images/btc_xrp_ci_median_summ.png
+![ETH_LINK_MC ](https://github.com/nairrekhabr/Project_3/blob/main/eth_link_analysis/images/eth_link_fcst_ci_median_summ.png)
 
 #### **Conclusions: Cryptocurrency Analysis**
 
